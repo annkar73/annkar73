@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently studying Front End Development at Medieinstitutet
-- 🌱 I’m learning HTML, CSS and JS
+- 🌱 I’m learning HTML, CSS/SCSS, JavaScript, Typescript and currently Vue JS. Soon to come: React. 
 - 👯 I’m looking to collaborate on anything I can learn a lot from
 - 🤔 I’m looking for tips and tricks to learn more
 
